@@ -1,4 +1,4 @@
-# <img align="center" alt="GIF" src="./assets/hi.gif" width="30" height="30" /> Hey! I'm Mamedes Eron.
+#  Hey! I'm Mamedes Eron.
 
 <center>
   <a href="mailto:contato.mamedeser@gmail.com">
@@ -22,7 +22,6 @@
 <br/>
 
 <div>
-  <img align="right" src="./assets/giphy.gif" width="30%"/>
 
   - 📚 <samp> I’m currently learning new things about Web Development on Flutter and ReactJs;
   - 🎓 <samp> I'm graduated in Computer Engineering at the Federal Institute of Mato Grosos do Sul;  
@@ -78,4 +77,5 @@
 <br/>
 
 [![Mamedes Eron github stats]https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=tokyonight)](https://github.com/gstimm/github-readme-stats)
-<img align="right" src="./assets/thats.gif" width="38%"/>
+
+
