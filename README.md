@@ -1,16 +1,11 @@
 #  Hey! I'm Mamedes Eron.
 
 
-
-<br/>
-<br/>
-<br/>
-
 <div>
 
-  - 📚 <samp> I’m currently learning new things about Web Development on Flutter and ReactJs;
-  - 🎓 <samp> I'm graduated in Computer Engineering at the Federal Institute of Mato Grosos do Sul;  
-  - 🎮 <samp> In my spare time, I like to play LoL;
+  -  <samp> I’m currently learning new things about Web Development on Flutter and ReactJs;
+  -  <samp> I'm graduated in Computer Engineering at the Federal Institute of Mato Grosso;  
+
 </div>
 
 <br/>
