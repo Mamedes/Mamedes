@@ -1,21 +1,6 @@
 #  Hey! I'm Mamedes Eron.
 
-<center>
-  <a href="mailto:contato.mamedeser@gmail.com">
-    <img align="center" alt="Eron Mail" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mamedes-castro">
-    <img align="center" alt="Eron Linkdein" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
 
-
-  <a href="https://open.spotify.com/user/mamedeser">
-    <img align="center" alt="Eron Youtube" height="30px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/kjYNpZbE">
-    <img align="center" alt="Eron Discord" height="30px" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" />
-  </a>
-</center>
 
 <br/>
 <br/>
@@ -77,7 +62,23 @@
   </tr>
 </table>
 <br/>
+<center>
+  <a href="mailto:contato.mamedeser@gmail.com">
+    <img align="center" alt="Eron Mail" height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mamedes-castro">
+    <img align="center" alt="Eron Linkdein" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
 
+
+  <a href="https://open.spotify.com/user/mamedeser">
+    <img align="center" alt="Eron Youtube" height="30px" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/kjYNpZbE">
+    <img align="center" alt="Eron Discord" height="30px" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white" />
+  </a>
+</center>
+  
  <div>
   <a href="https://github.com/mamedes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
