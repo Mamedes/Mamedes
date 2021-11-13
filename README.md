@@ -58,7 +58,6 @@
 </table>
 <br/>
 
-[![Gabriel Timm's github stats](https://github-readme-stats.vercel.app/api?username=gstimm&show_icons=true&theme=tokyonight)](https://github.com/gstimm/github-readme-stats)
  <div>
   <a href="https://github.com/Mamedes">
   [![Mamedes github stats](https://github-readme-stats.vercel.app/api?username=Mamedes&show_icons=true&theme=tokyonight)](https://github.com/Mamedes/github-readme-stats)k"/>
