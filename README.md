@@ -40,7 +40,7 @@
       <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
       <img alt="Docker" src="https://img.shields.io/badge/docker_compose-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-      <img alt="PHP" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white/">
+      
     </td>
     <td>
       <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -58,9 +58,11 @@
 </table>
 <br/>
 
+  
  <div>
-  <a href="https://github.com/Mamedes">
-  [![Mamedes github stats](https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=tokyonight)](https://github.com/mamedes/github-readme-stats)k"/>
+  <a href="https://github.com/mamedes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamedes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <br>
