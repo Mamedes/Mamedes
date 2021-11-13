@@ -60,7 +60,7 @@
 
  <div>
   <a href="https://github.com/Mamedes">
-  [![Mamedes github stats](https://github-readme-stats.vercel.app/api?username=Mamedes&show_icons=true&theme=tokyonight)](https://github.com/Mamedes/github-readme-stats)k"/>
+  [![Mamedes github stats](https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=tokyonight)](https://github.com/mamedes/github-readme-stats)k"/>
 </div>
 <br>
 <br>
