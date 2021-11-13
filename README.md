@@ -58,11 +58,10 @@
 </table>
 <br/>
 
-  
+[![Gabriel Timm's github stats](https://github-readme-stats.vercel.app/api?username=gstimm&show_icons=true&theme=tokyonight)](https://github.com/gstimm/github-readme-stats)
  <div>
-  <a href="https://github.com/mamedes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamedes&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Mamedes">
+  [![Mamedes github stats](https://github-readme-stats.vercel.app/api?username=Mamedes&show_icons=true&theme=tokyonight)](https://github.com/Mamedes/github-readme-stats)k"/>
 </div>
 <br>
 <br>
