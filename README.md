@@ -51,8 +51,8 @@
   
  <div>
   <a href="https://github.com/mamedes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamedes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamedes&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mamedes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamedes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <br>
